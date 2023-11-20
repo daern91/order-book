@@ -48,8 +48,9 @@ We use `criterion` for benchmarking which also gives us great html reports.
 On my local machine, we see the below speeds (mb pro M1 max 64 GB memory)
 )
 
-![10mm limit order adds](./CleanShot 2023-11-15 at 05.11.57@2x.png)
-![10mm limit order adds](https://i.imgur.com/XnQkfDi.png =468x332)
+<!-- ![10mm limit order adds](<./CleanShot 2023-11-15 at 05.11.57@2x.png>){: width="50%"} -->
+
+<img src="https://raw.githubusercontent.com/daern91/order-book/main/CleanShot%202023-11-15%20at%2005.11.57%402x.png" width=40% height=40%>
 
 #### Structure
 
